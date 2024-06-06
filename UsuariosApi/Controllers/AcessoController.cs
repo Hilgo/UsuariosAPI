@@ -8,7 +8,7 @@ namespace UsuariosApi.Controllers
     public class AcessoController : ControllerBase
     {
         [HttpGet]
-        [Authorize(Policy = "IdadeMinima")]
+        [Authorize(AuthenticationSchemes = "Bearer", Policy = "IdadeMinima")]
         public IActionResult Get() {
             return Ok("Acesso permitido!");
 

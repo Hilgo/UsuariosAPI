@@ -2,9 +2,9 @@
 
 namespace UsuariosApi.Authorization
 {
-    public class IdadeMinia : IAuthorizationRequirement
+    public class IdadeMinima : IAuthorizationRequirement
     {
-        public IdadeMinia(int idade)
+        public IdadeMinima(int idade)
         {
             Idade = idade;
         }
