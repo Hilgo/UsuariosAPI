@@ -40,7 +40,6 @@ C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\staticwe
 C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\scopedcss\bundle\UsuariosApi.styles.css
-C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\UsuariosApi.csproj.CopyComplete
 C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\UsuariosApi.dll
 C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\refint\UsuariosApi.dll
 C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\UsuariosApi.pdb
@@ -76,3 +75,9 @@ C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\bin\Debug\net6.0\runtimes
 C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\bin\Debug\net6.0\UsuariosApi.staticwebassets.endpoints.json
+C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\UsuariosApi.sourcelink.json
+C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\staticwebassets\msbuild.UsuariosApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lucas\source\repos\alura-identity\UsuariosApi\obj\Debug\net6.0\Usuarios.1F258D9B.Up2Date

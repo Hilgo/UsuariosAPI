@@ -12,8 +12,8 @@ using UsuariosApi.Data;
 namespace UsuariosApi.Migrations
 {
     [DbContext(typeof(UsuarioDbContext))]
-    [Migration("20240312002604_Criando usuario")]
-    partial class Criandousuario
+    [Migration("20250330170418_InitialCreate")]
+    partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
